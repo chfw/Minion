@@ -7,7 +7,9 @@ version: "0.0.1"
 release: "0.0.1"
 copyright_year: 2017
 command_line_interface: "minion"
-entry_point: "Minion.main:main"
+entry_point: "minion.main:main"
 license: MIT
-dependencies: []
+dependencies:
+  - Flask
+  - Flask-Cors
 description: "Make your machine as a deligent minion"
