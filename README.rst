@@ -60,6 +60,6 @@ Additional Infomration
 ================================================================================
 
 `Yehua <https://github.com/chfw/yehua>`_ and
-`moban<https://github.com/chfw/moban>`_ are used as the scaffolding tool to
+`moban <https://github.com/chfw/moban>`_ are used as the scaffolding tool to
 create the initial commit in 2 seconds.
 
